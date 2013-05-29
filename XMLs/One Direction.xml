@@ -1,11 +1,12 @@
 <music>
-  <band>
+	<band>
 		<band_name>One Direction</band_name>
 		<discography>
 			<albums>
 				<studio_Albums>
-					<Album>
+					<Album_Up_All_Night>
 						<Studio_Album_Name>Up All Night</Studio_Album_Name>
+						<AlbumSleve type="gif">computer.gif</AlbumSleve>
 						<Album_Songs>
 							<Normal_Size>
 								<song>
@@ -39,106 +40,190 @@
 									<Song_Name>More than This</Song_Name>
 									<Song_Number>4</Song_Number>
 									<Song_Length>
-										<Minutes></Minutes>
-										<Seconds></Seconds>
+										<Minutes>3</Minutes>
+										<Seconds>48</Seconds>
 									</Song_Length>
-									<Song_url></Song_url>
+									<!--<Song_url></Song_url>-->
 								</song>
 								<song>
-									<Song_Name></Song_Name>
-									<Song_Number></Song_Number>
+									<Song_Name>Up All Night</Song_Name>
+									<Song_Number>5</Song_Number>
 									<Song_Length>
-										<Minutes></Minutes>
-										<Seconds></Seconds>
+										<Minutes>3</Minutes>
+										<Seconds>12</Seconds>
 									</Song_Length>
-									<Song_url></Song_url>
+									<!--<Song_url></Song_url> -->
 								</song>
 								<song>
-									<Song_Name></Song_Name>
-									<Song_Number></Song_Number>
+									<Song_Name>I Wish</Song_Name>
+									<Song_Number>6</Song_Number>
 									<Song_Length>
-										<Minutes></Minutes>
-										<Seconds></Seconds>
+										<Minutes>3</Minutes>
+										<Seconds>35</Seconds>
 									</Song_Length>
-									<Song_url></Song_url>
+									<!--<Song_url></Song_url>-->
 								</song>
 								<song>
-									<Song_Name></Song_Name>
-									<Song_Number></Song_Number>
+									<Song_Name>Tell Me a Lie</Song_Name>
+									<Song_Number>7</Song_Number>
 									<Song_Length>
-										<Minutes></Minutes>
-										<Seconds></Seconds>
+										<Minutes>3</Minutes>
+										<Seconds>15</Seconds>
 									</Song_Length>
-									<Song_url></Song_url>
+									<!--<Song_url></Song_url>-->
 								</song>
 								<song>
-									<Song_Name></Song_Name>
-									<Song_Number></Song_Number>
+									<Song_Name>Taken</Song_Name>
+									<Song_Number>8</Song_Number>
 									<Song_Length>
-										<Minutes></Minutes>
-										<Seconds></Seconds>
+										<Minutes>3</Minutes>
+										<Seconds>55</Seconds>
 									</Song_Length>
-									<Song_url></Song_url>
+									<!--<Song_url></Song_url>-->
 								</song>
 								<song>
-									<Song_Name></Song_Name>
-									<Song_Number></Song_Number>
+									<Song_Name>I Want</Song_Name>
+									<Song_Number>9</Song_Number>
 									<Song_Length>
-										<Minutes></Minutes>
-										<Seconds></Seconds>
+										<Minutes>2</Minutes>
+										<Seconds>51</Seconds>
 									</Song_Length>
-									<Song_url></Song_url>
+									<!--<Song_url></Song_url>-->
 								</song>
 								<song>
-									<Song_Name></Song_Name>
-									<Song_Number></Song_Number>
+									<Song_Name>Everything About You</Song_Name>
+									<Song_Number>10</Song_Number>
 									<Song_Length>
-										<Minutes></Minutes>
-										<Seconds></Seconds>
+										<Minutes>3</Minutes>
+										<Seconds>35</Seconds>
 									</Song_Length>
-									<Song_url></Song_url>
+									<!--<Song_url></Song_url>-->
 								</song>
 								<song>
-									<Song_Name></Song_Name>
-									<Song_Number></Song_Number>
+									<Song_Name>Same Mistakes</Song_Name>
+									<Song_Number>11</Song_Number>
 									<Song_Length>
-										<Minutes></Minutes>
-										<Seconds></Seconds>
+										<Minutes>3</Minutes>
+										<Seconds>37</Seconds>
 									</Song_Length>
-									<Song_url></Song_url>
+									<!--<Song_url></Song_url>-->
 								</song>
 								<song>
-									<Song_Name></Song_Name>
-									<Song_Number></Song_Number>
+									<Song_Name>Save You Tonight</Song_Name>
+									<Song_Number>12</Song_Number>
 									<Song_Length>
-										<Minutes></Minutes>
-										<Seconds></Seconds>
+										<Minutes>3</Minutes>
+										<Seconds>24</Seconds>
 									</Song_Length>
-									<Song_url></Song_url>
+									<!--<Song_url></Song_url> -->
 								</song>
 								<song>
-									<Song_Name></Song_Name>
-									<Song_Number></Song_Number>
+									<Song_Name>Stole My Heart</Song_Name>
+									<Song_Number>13</Song_Number>
 									<Song_Length>
-										<Minutes></Minutes>
-										<Seconds></Seconds>
+										<Minutes>3</Minutes>
+										<Seconds>25</Seconds>
 									</Song_Length>
-									<Song_url></Song_url>
+									<!--<Song_url></Song_url> -->
 								</song>
-
-
-
-
-
-
-
-</Normal_Size>
-</Album_Songs>
-</Album>
+							</Normal_Size>
+							<Limited_Yearbook_edition>
+							<song>
+									<Song_Name>Stand Up</Song_Name>
+									<Song_Number>14</Song_Number>
+									<Song_Length>
+										<Minutes>2</Minutes>
+										<Seconds>53</Seconds>
+									</Song_Length>
+								<!--<Song_url></Song_url> -->
+							</song>
+							<song>
+									<Song_Name>Moments</Song_Name>
+									<Song_Number>15</Song_Number>
+									<Song_Length>
+										<Minutes>4</Minutes>
+										<Seconds>22</Seconds>
+									</Song_Length>
+									<!--<Song_url></Song_url> -->
+								</song>
+							</Limited_Yearbook_edition>
+							<Australian_Mexican_Philippine_and_New_Zealand_souvenir_edition>
+								<song>
+									<Song_Name>Another World</Song_Name>
+									<Song_Number>16</Song_Number>
+									<Song_Length>
+										<Minutes>3</Minutes>
+										<Seconds>23</Seconds>
+									</Song_Length>
+									<!--<Song_url></Song_url> -->
+								</song>
+								<song>
+									<Song_Name>Na Na Na</Song_Name>
+									<Song_Number>15</Song_Number>
+									<Song_Length>
+										<Minutes>3</Minutes>
+										<Seconds>05</Seconds>
+									</Song_Length>
+									<!--<Song_url></Song_url> -->
+								</song>
+								<song>
+									<Song_Name>I Should've Kissed You</Song_Name>
+									<Song_Number>15</Song_Number>
+									<Song_Length>
+										<Minutes>3</Minutes>
+										<Seconds>34</Seconds>
+									</Song_Length>
+									<!--<Song_url></Song_url> -->
+								</song>
+							
+							</Australian_Mexican_Philippine_and_New_Zealand_souvenir_edition>
+							<American_Edition_alt_track>
+								<song>
+									<Song_Name>Gotta Be You (2012 U.S. Version)</Song_Name>
+									<Song_Number>2</Song_Number>
+									<Song_Length>
+										<Minutes>4</Minutes>
+										<Seconds>01</Seconds>
+									</Song_Length>
+									<!--<Song_url></Song_url> -->
+								</song>
+							</American_Edition_alt_track>
+						<!--<Italian_Special_Edition>
+								<song>
+									<Song_Name>Gotta Be You [Steve Smart & Westfunk Remix]</Song_Name>
+									<Song_Number>14</Song_Number>
+									<Song_Length>
+										<Minutes>6</Minutes>
+										<Seconds>17</Seconds>
+									</Song_Length> -->
+									<!--<Song_url></Song_url> -->
+								<!--</song>-->
+								<!--<song>
+									<Song_Name>Gotta Be You (Mojam Remix)</Song_Name>
+									<Song_Number>15</Song_Number>
+									<Song_Length>
+										<Minutes>3</Minutes>
+										<Seconds>23</Seconds>
+									</Song_Length>-->
+									<!--<Song_url></Song_url> -->
+								<!--</song> end song-->
+								<!--<song>
+									<Song_Name>One Thing (acoustic version)</Song_Name>
+									<Song_Number>16</Song_Number>
+									<Song_Length>
+										<Minutes>3</Minutes>
+										<Seconds>04</Seconds>
+									</Song_Length>-->
+									<!--<Song_url></Song_url> -->
+								<!--</song>-->
+						<!--</Italian_Special_Edition> -->
+						</Album_Songs>
+					</Album_Up_All_Night>
 
 
 
 </studio_Albums>
+</albums>
 </discography>
 </band>
 </music>
