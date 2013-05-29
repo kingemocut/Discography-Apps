@@ -1,0 +1,144 @@
+<music>
+  <band>
+		<band_name>One Direction</band_name>
+		<discography>
+			<albums>
+				<studio_Albums>
+					<Album>
+						<Studio_Album_Name>Up All Night</Studio_Album_Name>
+						<Album_Songs>
+							<Normal_Size>
+								<song>
+									<Song_Name>What Makes You Beautiful</Song_Name>
+									<Song_Number>1</Song_Number>
+									<Song_Length>
+										<Minutes>3</Minutes>
+										<Seconds>18</Seconds>
+									</Song_Length>
+									<!--<Song_url></Song_url> -->
+								</song>
+								<song>
+									<Song_Name>Gotta Be You</Song_Name>
+									<Song_Number>2</Song_Number>
+									<Song_Length>
+										<Minutes>4</Minutes>
+										<Seconds>04</Seconds>
+									</Song_Length>
+									<!--<Song_url></Song_url>-->
+								</song>
+								<song>
+									<Song_Name>One Thing</Song_Name>
+									<Song_Number>3</Song_Number>
+									<Song_Length>
+										<Minutes>3</Minutes>
+										<Seconds>17</Seconds>
+									</Song_Length>
+									<!--<Song_url></Song_url> -->
+								</song>
+								<song>
+									<Song_Name>More than This</Song_Name>
+									<Song_Number>4</Song_Number>
+									<Song_Length>
+										<Minutes></Minutes>
+										<Seconds></Seconds>
+									</Song_Length>
+									<Song_url></Song_url>
+								</song>
+								<song>
+									<Song_Name></Song_Name>
+									<Song_Number></Song_Number>
+									<Song_Length>
+										<Minutes></Minutes>
+										<Seconds></Seconds>
+									</Song_Length>
+									<Song_url></Song_url>
+								</song>
+								<song>
+									<Song_Name></Song_Name>
+									<Song_Number></Song_Number>
+									<Song_Length>
+										<Minutes></Minutes>
+										<Seconds></Seconds>
+									</Song_Length>
+									<Song_url></Song_url>
+								</song>
+								<song>
+									<Song_Name></Song_Name>
+									<Song_Number></Song_Number>
+									<Song_Length>
+										<Minutes></Minutes>
+										<Seconds></Seconds>
+									</Song_Length>
+									<Song_url></Song_url>
+								</song>
+								<song>
+									<Song_Name></Song_Name>
+									<Song_Number></Song_Number>
+									<Song_Length>
+										<Minutes></Minutes>
+										<Seconds></Seconds>
+									</Song_Length>
+									<Song_url></Song_url>
+								</song>
+								<song>
+									<Song_Name></Song_Name>
+									<Song_Number></Song_Number>
+									<Song_Length>
+										<Minutes></Minutes>
+										<Seconds></Seconds>
+									</Song_Length>
+									<Song_url></Song_url>
+								</song>
+								<song>
+									<Song_Name></Song_Name>
+									<Song_Number></Song_Number>
+									<Song_Length>
+										<Minutes></Minutes>
+										<Seconds></Seconds>
+									</Song_Length>
+									<Song_url></Song_url>
+								</song>
+								<song>
+									<Song_Name></Song_Name>
+									<Song_Number></Song_Number>
+									<Song_Length>
+										<Minutes></Minutes>
+										<Seconds></Seconds>
+									</Song_Length>
+									<Song_url></Song_url>
+								</song>
+								<song>
+									<Song_Name></Song_Name>
+									<Song_Number></Song_Number>
+									<Song_Length>
+										<Minutes></Minutes>
+										<Seconds></Seconds>
+									</Song_Length>
+									<Song_url></Song_url>
+								</song>
+								<song>
+									<Song_Name></Song_Name>
+									<Song_Number></Song_Number>
+									<Song_Length>
+										<Minutes></Minutes>
+										<Seconds></Seconds>
+									</Song_Length>
+									<Song_url></Song_url>
+								</song>
+
+
+
+
+
+
+
+</Normal_Size>
+</Album_Songs>
+</Album>
+
+
+
+</studio_Albums>
+</discography>
+</band>
+</music>
